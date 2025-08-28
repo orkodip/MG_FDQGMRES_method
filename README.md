@@ -1,5 +1,5 @@
 # MG_FDQGMRES_method
-This repository contain the codes (written in C++) for the multigrid preconditioned Flexible Direct Quasi Generalized Minimal Residual method (FDQGMRES) for variable-coefficient Poisson equations. Finite Volume Method is used to discretize the Poisson equation.
+This repository contain the codes (written in C++) for the multigrid preconditioned Flexible Direct Quasi Generalized Minimal Residual method (FDQGMRES) for variable-coefficient Poisson equations. Finite Difference Method is used to discretize the Poisson equation.
 
 The code is designed to solve the second test problem (Problem 2) of Tatebe (1993).
 

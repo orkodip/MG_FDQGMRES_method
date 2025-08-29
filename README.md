@@ -1,7 +1,7 @@
 # MG_FDQGMRES_method
 This repository contain the codes (written in C++) for the multigrid preconditioned Flexible Direct Quasi Generalized Minimal Residual method (FDQGMRES) for variable-coefficient Poisson equations. Finite Difference Method is used to discretize the Poisson equation.
 
-The codes are designed following the works of Saad (2003) and Wessling (1992).
+The codes are developed following the works of Saad (2003) and Wessling (1992).
 
 My hand-written notes on various Krylov subspace-based iterative methods and the geometric multigrid method are provided in the following Google Drive links.
 

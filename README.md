@@ -13,7 +13,9 @@ The code is designed to solve the second test problem (Problem 2) of Tatebe (199
 
 # Reference
 Saad, Y., 2003. Iterative methods for sparse linear systems. Society for Industrial and Applied Mathematics.
+
 Wesseling, P., 1992. An introduction to multigrid methods. John Wiley & Sons.
+
 Tatebe, O., 1993, November. The multigrid preconditioned conjugate gradient method. In NASA. Langley Research Center, The Sixth Copper Mountain Conference on Multigrid Methods, Part 2.
 
 # Software requirements
